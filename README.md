@@ -1,70 +1,75 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Front-End Stage 1 Task
 
-## Available Scripts
+<aside>
+💡 **Technologies to be used must include React.**
 
-In the project directory, you can run:
+</aside>
 
-### `npm start`
+<aside>
+💡 Make frequent atomic commits to your GitHub repository and keep standard on commit messages.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</aside> 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Create a page like Linktree that allows a person show their personal profile and link to various digital things that they sell. **Details below.**
+- Make frequent atomic commits to your GitHub repository and keep standard on commit messages.
+- **You can host on Netlify, Github pages or Vercel.**
 
-### `npm test`
+## The profile section
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- A profile picture with an id ‘**profile__img**’
+- Your twitter username with an id ‘**twitter**’
+- Your slack username with an id ‘**slack**’ - **but this should be hidden (available in code, but cannot be seen)**
 
-### `npm run build`
+## The links section
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- An Anchor tag  styled as a Button with an id **‘btn__zuri’** that redirects to “[https://training.zuri.team/](https://training.zuri.team/)”
+- An Anchor tag styled as a Button with an id **‘books’** that redirects to [http://books.zuri.team](http://books.zuri.team) with the title and a subtext describing that this is where you find books about design and coding
+- An Anchor tag styled as a Button with an id **‘book__python’** that redirects to to [https://books.zuri.team](https://books.zuri.team)/python-for-beginners?ref_id=<yourslackname>, with a subtext where you feature the book as if you were selling it.The reference id must be unique and will give you royalties if any sales of the book come
+- An Anchor tag styled as a Button with an id **‘pitch’** that redirects to to [https://background.zuri.team](https://background.zuri.team), with a subtext where you pitch a service for doing background checks on coders. Use a good, selling sentence.
+- An Anchor tag styled as a Button with an id **‘book__design’** that redirects to to [https://books.zuri.team/design-rules](https://books.zuri.team/design-rules) with a subtext where you pitch the free design book offered by Zuri.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Frontend Design**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[Designs for frontend](https://www.figma.com/file/m2C1MHd8vASrLqfxSUdgxD/Designs-for-frontend?node-id=4623%3A431129)
 
-### `npm run eject`
+Submission Link: 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Submit your Slack username and your hosted (either Netlify or GitHub pages or Vercel) link and email address**
+# Front-End Stage 1 Task
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<aside>
+💡 **Technologies to be used must include React.**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+</aside>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<aside>
+💡 Make frequent atomic commits to your GitHub repository and keep standard on commit messages.
 
-## Learn More
+</aside> 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Create a page like Linktree that allows a person show their personal profile and link to various digital things that they sell. **Details below.**
+- Make frequent atomic commits to your GitHub repository and keep standard on commit messages.
+- **You can host on Netlify, Github pages or Vercel.**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## The profile section
 
-### Code Splitting
+- A profile picture with an id ‘**profile__img**’
+- Your twitter username with an id ‘**twitter**’
+- Your slack username with an id ‘**slack**’ - **but this should be hidden (available in code, but cannot be seen)**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## The links section
 
-### Analyzing the Bundle Size
+- An Anchor tag  styled as a Button with an id **‘btn__zuri’** that redirects to “[https://training.zuri.team/](https://training.zuri.team/)”
+- An Anchor tag styled as a Button with an id **‘books’** that redirects to [http://books.zuri.team](http://books.zuri.team) with the title and a subtext describing that this is where you find books about design and coding
+- An Anchor tag styled as a Button with an id **‘book__python’** that redirects to to [https://books.zuri.team](https://books.zuri.team)/python-for-beginners?ref_id=<yourslackname>, with a subtext where you feature the book as if you were selling it.The reference id must be unique and will give you royalties if any sales of the book come
+- An Anchor tag styled as a Button with an id **‘pitch’** that redirects to to [https://background.zuri.team](https://background.zuri.team), with a subtext where you pitch a service for doing background checks on coders. Use a good, selling sentence.
+- An Anchor tag styled as a Button with an id **‘book__design’** that redirects to to [https://books.zuri.team/design-rules](https://books.zuri.team/design-rules) with a subtext where you pitch the free design book offered by Zuri.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**Frontend Design**
 
-### Making a Progressive Web App
+[Designs for frontend](https://www.figma.com/file/m2C1MHd8vASrLqfxSUdgxD/Designs-for-frontend?node-id=4623%3A431129)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Submission Link: 
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Submit your Slack username and your hosted (either Netlify or GitHub pages or Vercel) link and email address**
